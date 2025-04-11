@@ -47,6 +47,18 @@ This analysis examines why customers leave (26.86% churn rate) and provides data
   </table>
 </div>
 
+
+**High-Risk Groups**:
+1. **Month-to-Month Contracts**  
+   - 46.29% churn rate (vs 6.62% for yearly)  
+   - Represent 51.01% of customer base
+
+2. **Senior Customers (65+)**  
+   - 38.46% churn rate (vs 26.86% overall)
+
+3. **Unlimited Data Plan Users**  
+   - 32.11% churn rate (vs 16.10% for limited plans)
+
 ---
 
 ## **Author**
